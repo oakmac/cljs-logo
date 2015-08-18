@@ -27,8 +27,8 @@ The logo has three variations:
 |--------------------------|----------------------------------------|------------------------------------------|
 | [cljs.svg]<br>[cljs.png] | [cljs-white.svg]<br>[cljs-white.png]   | [cljs-outline.svg]<br>[cljs-outline.png] |
 
-The _outline_ variation is mainly used at scales where the "cljs" letters
-become too small to be legible.
+The _outline_ variation omits the text and thickens the circle.  It is mainly
+used at small scales where the "cljs" letters would become illegible.
 
 [clear]:http://i.imgur.com/S14JyFD.png
 [white]:http://i.imgur.com/FIXbg7V.png
