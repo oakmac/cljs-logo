@@ -11,7 +11,7 @@ represent the joining of the Clojure and JavaScript worlds. Parentheses form a
 simple notched circle around it.
 
 The community logo was first printed on
-[stickers](https://raw.githubusercontent.com/cljsinfo/logo.cljs/master/cljs-empty.png)
+[stickers](https://twitter.com/swannodette/status/589949769457410048)
 and spread at Clojure/West 2015. [Josh] shared a neat interpretation:
 
 > I just noticed one more feature of the cljs logo. If you consider the
