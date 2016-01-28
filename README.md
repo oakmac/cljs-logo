@@ -45,7 +45,7 @@ used at small scales where the "cljs" letters would become illegible.
 
 designed by [Chris Oakman] and [Brett Darnell]
 
-[Chris Oakman]:http://twitter.com/4c4fc7
+[Chris Oakman]:http://twitter.com/oakmac1
 [Brett Darnell]:http://twitter.com/darnology
 
 ## License
