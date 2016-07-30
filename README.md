@@ -1,58 +1,90 @@
-# ClojureScript Logo By The Community
+# ClojureScript Logo
 
-This logo was created for use by the ClojureScript community, partly inspired
-by the following excerpt from the [2011 Launch Plan] on ClojureScript's wiki:
+A logo for the the [ClojureScript language].
 
-> I think ClojureScript should have a separate visual identity from Clojure
-> proper, though it should pay homeage to the Clojure identity.
+## Design
 
-We use the same colors and similar dual hemispheres as the [Clojure logo] to
-represent the joining of the Clojure and JavaScript worlds. Parentheses form a
-simple notched circle around it.
+ClojureScript is a simple, powerful language and we wanted the logo to reflect
+this power and simplicity. We also wanted to pay homage to the Clojure logo,
+while creating a new visual identity.
 
-The community logo was first printed on
-[stickers](https://twitter.com/swannodette/status/589949769457410048)
-and spread at Clojure/West 2015. [Josh] shared a neat interpretation:
+The logo pays homage to the [Clojure logo] in shape and color. The logo uses two
+of the four colors from the Clojure logo. Using two colors makes it easier to
+integrate the logo with different color palettes and allows for cleaner contrast
+against different backgrounds. The colors also match the "green on the left" /
+"blue on the right" split of the original Clojure logo. Finally, the logo is
+circular in shape with a "break" through the body.
 
-> I just noticed one more feature of the cljs logo. If you consider the
-> parentheses as a function invocation, and read the differently colored
-> letters as two different symbols, it reads (cl js), something like "apply
-> Clojure to JavaScript." Very cool.
+The logo has both a divided and cohesive appearance. Two halfs are created using
+color and the breaks between the arcs. This split symbolizes the relationship
+between "Clojure the language" and "JavaScript the platform" that is essentially
+ClojureScript. For cohesion, the kerning of the "cljs" letters is careful
+**not** to reflect this split (see the tail of the "j") so that "cljs" appears
+as one word. Additionally, the two arcs would form a perfect circle if they
+continued, so visually your mind "fills the gap" and makes the arcs appear as a
+single, encompassing circle.
 
-## Formats
+The arcs serve a dual-purpose. People who are familiar with Lisp and understand
+the unique importance parenthesis play in the language will see the arcs as
+parenthesis and notice that the logo is like a function call "applying Clojure
+to JavaScript". Users unfamiliar with Lisp will see the arcs structurally as a
+circle that bounds the logo and centers the text. Hopefully those users will
+learn more about the language and have an "Aha!" moment in the future when they
+discover the dual-purpose :)
+
+The logo consists of geometric shapes with smooth curves: creating a beautiful,
+clean, and simple aesthetic. This has the added benefit of being easily rendered
+by a computer and stored in simple SVG markup that can be rendered on many
+devices. The file size of the transparent SVG logo is a mere 2,313 bytes, small
+enough to be embedded in the [source code of a program] directly.
+
+## Variants
 
 The logo has three variations:
 
-| ![clear]                 | ![white]                               | ![outline]                               |
-|--------------------------|----------------------------------------|------------------------------------------|
-| [cljs.svg]<br>[cljs.png] | [cljs-white.svg]<br>[cljs-white.png]   | [cljs-outline.svg]<br>[cljs-outline.png] |
+| ![white]                             | ![clear]                               | ![outline]                               |
+|--------------------------------------|----------------------------------------|------------------------------------------|
+| [cljs-white.svg]<br>[cljs-white.png] | [cljs.svg]<br>[cljs.png]               | [cljs-outline.svg]<br>[cljs-outline.png] |
 
-The _outline_ variation omits the text and thickens the circle.  It is mainly
-used at small scales where the "cljs" letters would become illegible.
+The white background is good for [stickers] and for contrast against non-dark
+backgrounds.
+
+Clear works well against dark backgrounds where the white contrast would be too
+jarring. Examples: [Solar System of JS] and [cljsfiddle.com].
+
+The outline variation omits the text and thickens the circle. It is mainly used
+at small scales where the "cljs" letters would become illegible. Example:
+[ClojureScript Cheatsheet]
 
 [clear]:http://i.imgur.com/S14JyFD.png
 [white]:http://i.imgur.com/FIXbg7V.png
 [outline]:http://i.imgur.com/YIkIaIt.png
 
-[cljs.svg]:https://raw.githubusercontent.com/cljsinfo/logo.cljs/master/cljs.svg
-[cljs.png]:https://raw.githubusercontent.com/cljsinfo/logo.cljs/master/cljs.png
-[cljs-white.svg]:https://raw.githubusercontent.com/cljsinfo/logo.cljs/master/cljs-white.svg
-[cljs-white.png]:https://raw.githubusercontent.com/cljsinfo/logo.cljs/master/cljs-white.png
-[cljs-outline.svg]:https://raw.githubusercontent.com/cljsinfo/logo.cljs/master/cljs-outline.svg
-[cljs-outline.png]:https://raw.githubusercontent.com/cljsinfo/logo.cljs/master/cljs-outline.png
+[cljs.svg]:https://raw.githubusercontent.com/cljs/logo/master/cljs.svg
+[cljs.png]:https://raw.githubusercontent.com/cljs/logo/master/cljs.png
+[cljs-white.svg]:https://raw.githubusercontent.com/cljs/logo/master/cljs-white.svg
+[cljs-white.png]:https://raw.githubusercontent.com/cljs/logo/master/cljs-white.png
+[cljs-outline.svg]:https://raw.githubusercontent.com/cljs/logo/master/cljs-outline.svg
+[cljs-outline.png]:https://raw.githubusercontent.com/cljs/logo/master/cljs-outline.png
 
 ## Credits
 
 designed by [Chris Oakman] and [Brett Darnell]
 
-[Chris Oakman]:http://twitter.com/oakmac1
-[Brett Darnell]:http://twitter.com/darnology
-
 ## License
 
-Logo files are released under the MIT license.
+The CLJS logo is released under a [Creative Commons CC0] license.
 
-[2011 Launch Plan]:https://github.com/clojure/clojurescript/wiki/Launch-Plan
+Essentially, this means you are free to use, share, and modify this logo for any
+purpose.
+
+[ClojureScript language]:https://github.com/clojure/clojurescript
 [Clojure logo]:http://i.imgur.com/1GjPKvB.png
-[This]:https://twitter.com/swannodette/status/589949769457410048
-[Josh]:https://twitter.com/joshheadapohl
+[source code of a program]:https://github.com/bhauman/lein-figwheel/blob/df65b703ff4131764d161f1290f010f513aaa2d1/support/src/figwheel/client/heads_up.cljs#L334-L361
+[stickers]:https://twitter.com/swannodette/status/589949769457410048
+[Solar System of JS]:https://shaunlebron.github.io/solar-system-of-js/#0
+[cljsfiddle.com]:http://cljsfiddle.com/
+[ClojureScript Cheatsheet]:http://cljs.info/cheatsheet/
+[Chris Oakman]:http://chrisoakman.com
+[Brett Darnell]:http://twitter.com/darnology
+[Creative Commons CC0]:https://creativecommons.org/publicdomain/zero/1.0/
