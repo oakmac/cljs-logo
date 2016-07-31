@@ -25,8 +25,8 @@ continued, so visually your mind "fills the gap" and makes the arcs appear as a
 single, encompassing circle.
 
 The arcs serve a dual-purpose. People who are familiar with Lisp and understand
-the unique importance parenthesis play in the language will see the arcs as
-parenthesis and notice that the logo is like a function call "applying Clojure
+the unique importance parentheses play in the language will see the arcs as
+parentheses and notice that the logo is like a function call "applying Clojure
 to JavaScript". Users unfamiliar with Lisp will see the arcs structurally as a
 circle that bounds the logo and centers the text. Hopefully those users will
 learn more about the language and have an "Aha!" moment in the future when they
