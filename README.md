@@ -52,9 +52,9 @@ backgrounds.
 Clear works well against dark backgrounds where the white contrast would be too
 jarring. Examples: [Solar System of JS] and [cljsfiddle.com].
 
-The outline variation omits the text and thickens the circle. It is mainly used
-at small scales where the "cljs" letters would become illegible. Example:
-[ClojureScript Cheatsheet]
+The outline variation omits the text and thickens the arcs slightly. It is
+mainly used at small scales where the "cljs" letters would become illegible.
+Example: [ClojureScript Cheatsheet]
 
 [clear]:http://i.imgur.com/S14JyFD.png
 [white]:http://i.imgur.com/FIXbg7V.png
