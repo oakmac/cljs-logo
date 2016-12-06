@@ -20,9 +20,9 @@ color and the breaks between the arcs. This split symbolizes the relationship
 between "Clojure the language" and "JavaScript the platform" that is essentially
 ClojureScript. For cohesion, the kerning of the "cljs" letters is careful
 **not** to reflect this split (see the tail of the "j") so that "cljs" appears
-as one word. Additionally, the two arcs would form a perfect circle if they
-continued, so visually your mind "fills the gap" and makes the arcs appear as a
-single, encompassing circle.
+as one word. Additionally, the two arcs would form a circle if they continued,
+so visually your mind "fills the gap" and makes the arcs appear as a single,
+encompassing circle.
 
 The arcs serve a dual-purpose. People who are familiar with Lisp and understand
 the unique importance parentheses play in the language will see the arcs as
@@ -66,6 +66,14 @@ Example: [ClojureScript Cheatsheet]
 [cljs-white.png]:https://raw.githubusercontent.com/cljs/logo/master/cljs-white.png
 [cljs-outline.svg]:https://raw.githubusercontent.com/cljs/logo/master/cljs-outline.svg
 [cljs-outline.png]:https://raw.githubusercontent.com/cljs/logo/master/cljs-outline.png
+
+## Stickers
+
+Stickers can be ordered from [stickermule] using the [stickermule-proof.pdf]
+file.
+
+[stickermule]:https://www.stickermule.com/
+[stickermule-proof.pdf]:https://raw.githubusercontent.com/cljs/logo/master/stickermule-proof.pdf
 
 ## Credits
 
